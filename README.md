@@ -1,2 +1,2 @@
 # InitiativeTracker
-A D&amp;D Initiative Tracker desktop application made in C#
+A D&amp;D Initiative Tracker desktop application I made in C#
