@@ -28,7 +28,7 @@ MP's D&D Initiative Tracker is a lightweight GUI desktop application built in C#
 - **Import:** Use the import option to load a txt saved encounter to save yourself some time!
 
 ## Screenshot
-![D&D Initiative Tracker Screenshot](screenshot.png)  
+![D&D Initiative Tracker Screenshot](Screenshot.png)  
 
 ## Contributing
 Contributions are welcome! To contribute:
