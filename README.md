@@ -30,15 +30,5 @@ MP's D&D Initiative Tracker is a lightweight GUI desktop application built in C#
 ## Screenshot
 ![D&D Initiative Tracker Screenshot](Screenshot.png)  
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
-
-## License
-This project is licensed under the [MIT License](LICENSE).  
-*(Feel free to update this section with your chosen license.)*
-
 ## Contact
 For questions or feedback, please contact Ben Cobb at [moltenpanther@gmail.com] or open an issue in this repository.
